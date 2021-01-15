@@ -1,0 +1,1 @@
+"./HW_Mult.obj" "./SW_Mult.obj" "./calc_power.obj" "./main.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
